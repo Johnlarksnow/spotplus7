@@ -68,7 +68,7 @@ onMounted(() => {
     </div>
     <div class="md:w-2/6 space-y-1">
       <h3 class="title">
-        Is my data safe with Supgrade?
+        Is my data safe with Spotigrade?
       </h3>
       <p class="">
         Yes, of course. We do not save your Spotify login. Our bot will only login to your account for upgrading/renewing your account.
