@@ -15,7 +15,7 @@ const items = [
         <div class="container">
           <div class="row h-100 justify-content-center align-items-center">
             <div class="col-lg-5">
-              <h3 style="color: rgb(70, 209, 123);">SpotPlus</h3>
+              <h3 style="color: rgb(70, 209, 123);">Spotigrade</h3>
               <h1 class="h1label"> Spotify Premium <br></h1>
               <p>Tired of paying high monthly fees for Spotify Premium or just can't listen to music with
                 ads? With our service, all this is done! We provide lifetime Spotify Premium along with

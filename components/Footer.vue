@@ -36,7 +36,7 @@ const year = new Date().getFullYear()
 			</div>
 			<div class="flex mt-4 mb-5 w-full">
 				<ul class="flex flex-col justify-between items-center w-full md:flex-row lg:flex lg:space-x-12">
-					<p class="text-xs font-medium leading-relaxed text-white md:text-base">© 2023 SpotPlus. All rights
+					<p class="text-xs font-medium leading-relaxed text-white md:text-base">© 2023 Spotigrade. All rights
 						reserved.</p>
 					<div class="hidden justify-between w-3/12 md:flex">
 						

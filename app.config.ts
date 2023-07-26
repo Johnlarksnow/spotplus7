@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  name: 'SpotPlus',
+  name: 'Spotigrade',
   description: 'Upgrade your spotify with on-the-go.',
   social: {
     discord: 'https://discord.gg/upgrade',
