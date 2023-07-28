@@ -33,7 +33,6 @@ const items = [
         </div>
       </div>
       <div class="shape1"><img src="https://i.imgur.com/FDNrKtx.png" alt="shape"></div>
-		<div class="shape2 rotateme"><img src="https://i.imgur.com/56kIl0p.png" alt="shape"></div>
 		<div class="shape3"><img src="https://i.imgur.com/6P09O2V.png" alt="shape"></div>
 		<div class="shape4"><img src="https://i.imgur.com/Xxh8QFH.png" alt="shape"></div>
 		<div class="shape5"><img src="https://i.imgur.com/g69YZgY.png" alt="shape"></div>
