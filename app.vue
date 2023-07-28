@@ -14,7 +14,7 @@ nuxtApp.hook('page:finish', () => {
 </script>
 
 <template>
-  <main class="bg-green-100 dark:text-white text-gray-900 font-inter min-h-screen dark:bg-[#050505]">
+  <main class="bg-green-100 dark:text-black text-gray-900 font-inter min-h-screen dark:bg-[#050505]">
     <NuxtLoadingIndicator />
 
     <NuxtLayout class="h-full">
