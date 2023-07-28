@@ -27,9 +27,9 @@ const items = [
 
             </div>
             <div style="justify-content: center; display: flex;" class="col-lg-6 offset-lg-1">
-              <img class="vert-move" style="height:320px; margin-right: 3rem;" src="https://i.imgur.com/eBCIM9n.png">
-              <img class="vert-move-two" style="height:320px; margin-right: 3rem;" src="https://i.imgur.com/fmQ5rXw.png">
-              <img class="vert-move-three" style="height:320px;" src="https://i.imgur.com/ACryDYK.png">
+              <img class="vert-move" style="height:320px; margin-right: 3rem;" src="https://i.imgur.com/KnVz4v7.png">
+              <img class="vert-move-two" style="height:320px; margin-right: 3rem;" src="https://i.imgur.com/l3uh6UC.png">
+              <img class="vert-move-three" style="height:320px;" src="https://i.imgur.com/Or9tVIK.png">
             </div>
           </div>
         </div>
