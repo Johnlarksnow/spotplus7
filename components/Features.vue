@@ -153,7 +153,7 @@ onMounted(() => {
 	</section>
   <div class="videoflavor">
 		<video autoplay loop muted>
-			<source src="https://i.imgur.com/q4yFeF9.mp4" type="video/mp4">
+			<source src="https://i.imgur.com/LsCOytX.mp4" type="video/mp4">
 		</video>
 		<div class="text-overlay">
 			<h1>Automated
